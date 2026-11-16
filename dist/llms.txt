@@ -1,0 +1,19 @@
+# SPLASH — KI-Beratung & Umsetzung
+
+Philipp Mulfinger / Phil Splash bietet persönliche KI-Beratung und praktische Umsetzung in Würzburg und online. Kunden können mitlernen, gemeinsam umsetzen oder vereinbarte Arbeit abgeben. Ziel und Abschluss werden vor Beginn festgelegt.
+
+## Leistungen
+1. Bewerbungspaket: Business- und LinkedIn-Porträts, Lebenslauf, Portfolio-Website, Bewerbungsassistent. Optional automatisierter Ablauf einschließlich Versand nach vereinbarten Regeln, soweit eingesetzte Tools und Portale dies unterstützen.
+2. Eigene App oder Website: Anforderungen, Vibe Coding, Prototyp, Tests, Quellcode und Präsentation. Eigenes Beispiel: AuVis.
+3. KI-Film: Story, Character Sheets, Storyboard, Video, Ton, Schnitt und Präsentation. Eigenes Beispiel: IRIS.
+4. Comic oder Buch: Geschichte, Figuren, Seiten, Cover, Mockups und optional Produktwebsite. Eigenes Beispiel: IRIS — Black Garden.
+5. Maker-Projekte: kleine individuelle Technikprojekte mit ESP32, Raspberry Pi oder LED, vereinbarter Prototyp und Dokumentation.
+6. Persönlicher KI-Arbeitsplatz: ChatGPT Desktop, strukturierte Projekte und passende Agenten-Abläufe für Recherche und Umsetzung.
+
+## Kontakt
+info@phil-splash.de
++49 176 201 304 51
+Würzburg und online
+
+## Einordnung
+Die neuen Servicemotive sind Angebotsvisualisierungen. Sie sind keine Referenzen bereits ausgeführter Kundenaufträge. Tool-Abos, Hardware und laufende Kosten werden individuell vereinbart. Veröffentlichte Website: https://splash-ki.vercel.app/

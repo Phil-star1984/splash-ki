@@ -1,0 +1,392 @@
+[
+  {
+    "id": "bewerbung",
+    "num": "01",
+    "category": "BEWERBUNG & KARRIERE",
+    "title": "Bewerbungspaket mit<br>KI-Assistent erstellen",
+    "lead": "Business- und LinkedIn-Fotos, Lebenslauf, Portfolio-Website und auf Wunsch ein automatisierter Bewerbungsprozess. Alles auf dein Profil abgestimmt.",
+    "learn": "Du lernst die Werkzeuge selbst zu nutzen — oder gibst die Einrichtung und Umsetzung an mich ab. Zum Beispiel mit ChatGPT oder Hermes Agent, passend zu deinen Anforderungen.",
+    "deliver": [
+      "Individuelle Businessporträts und optimierter Lebenslauf",
+      "Deine persönliche Portfolio- und Bewerbungswebsite",
+      "Ein Agent für Stellensuche, Profilabgleich und Bewerbungen",
+      "Auf Wunsch automatisierter Versand nach vereinbarten Regeln"
+    ],
+    "note": "Wir legen Suchkriterien, korrekte Profilangaben und Freigaben gemeinsam fest. Wie weit der Ablauf automatisch laufen kann, hängt von den eingesetzten Tools und den jeweiligen Bewerbungsportalen ab.",
+    "goal": "Bewerbungspaket mit KI-Assistent erstellen",
+    "cta": "Mein Bewerbungspaket anfragen",
+    "example": "ANGEBOTSVISUALISIERUNG",
+    "images": [
+      [
+        "career-premium.webp",
+        "Dein kompletter Bewerbungsauftritt",
+        "Angebotsvisualisierung: Business- und LinkedIn-Porträts, Portfolio-Website und Lebenslauf als abgestimmter Auftritt."
+      ],
+      [
+        "agent-workspace.webp",
+        "Dein Bewerbungsassistent als Workflow",
+        "Konzeptansicht: Dein Assistent analysiert Stellen, gleicht dein Profil ab und erstellt Entwürfe zur Prüfung — etwa mit ChatGPT oder einem Agenten-Workflow."
+      ],
+      [
+        "application-auto.webp",
+        "Dein automatisierter Bewerbungsprozess",
+        "Angebotsvisualisierung: Stellen finden, Profil abgleichen, Unterlagen erstellen und nach deinen festgelegten Regeln versenden. Individuell eingerichteter Workflow."
+      ]
+    ],
+    "links": [],
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/career-premium.webp",
+        "title": "Dein kompletter Bewerbungsauftritt",
+        "caption": "Angebotsvisualisierung: Business- und LinkedIn-Porträts, Portfolio-Website und Lebenslauf als abgestimmter Auftritt."
+      },
+      {
+        "kind": "image",
+        "src": "assets/agent-workspace.webp",
+        "title": "Dein Bewerbungsassistent als Workflow",
+        "caption": "Konzeptansicht: Dein Assistent analysiert Stellen, gleicht dein Profil ab und erstellt Entwürfe zur Prüfung — etwa mit ChatGPT oder einem Agenten-Workflow."
+      },
+      {
+        "kind": "image",
+        "src": "assets/application-auto.webp",
+        "title": "Dein automatisierter Bewerbungsprozess",
+        "caption": "Angebotsvisualisierung: Stellen finden, Profil abgleichen, Unterlagen erstellen und nach deinen festgelegten Regeln versenden. Individuell eingerichteter Workflow."
+      }
+    ]
+  },
+  {
+    "id": "app",
+    "num": "02",
+    "category": "VIBE CODING & DIGITALE PRODUKTE",
+    "title": "Deine eigene App<br>oder Website entwickeln",
+    "lead": "Ein Werkzeug, das zu deinem Alltag passt. Oder eine Website für dein Angebot. Wir entwickeln gemeinsam eine klar abgegrenzte erste Version.",
+    "learn": "Von Anforderungen und Vibe Coding über Oberfläche und Tests bis zur Website und Präsentation: Du lernst den Weg zum eigenen digitalen Produkt.",
+    "deliver": [
+      "Ein getesteter Prototyp oder eine vereinbarte erste Version",
+      "Bearbeitbarer Quellcode und Projektdateien",
+      "Eine passende Produktpräsentation oder Landingpage",
+      "Einweisung und nächste Entwicklungsschritte"
+    ],
+    "note": "AuVis ist mein eigenes Beispiel: audiovisuelle Zeichen-App, Produktwebsite und Präsentation gehören zusammen. Deine App hat ihren eigenen Zweck.",
+    "goal": "Meine eigene App oder Website entwickeln",
+    "cta": "Meine App oder Website besprechen",
+    "example": "MEIN PRAXISBEISPIEL: AUVIS",
+    "images": [
+      [
+        "auvis-projection.webp",
+        "Eine App für einen konkreten Einsatzzweck",
+        "AuVis-Produktinszenierung: Zeichnen auf dem iPad und Lichtprojektion im Raum. Ein Beispiel für Software, die zu deinem Vorhaben passt."
+      ],
+      [
+        "auvis-ipad.webp",
+        "Die individuelle Oberfläche auf dem iPad",
+        "AuVis verbindet Zeichnen und Klang auf dem iPad — mit einer für diesen Zweck entwickelten Oberfläche."
+      ]
+    ],
+    "links": [
+      [
+        "https://auvis-website.vercel.app/",
+        "AuVis-Website ansehen"
+      ]
+    ],
+    "video": [
+      "z4QxvaOVccs",
+      "AuVis in Aktion",
+      "1:14 Min."
+    ],
+    "media": [
+      {
+        "kind": "video",
+        "src": "assets/auvis-live.webp",
+        "title": "AuVis in Aktion",
+        "caption": "AuVis in Aktion · 1:14 Min.",
+        "video": "z4QxvaOVccs",
+        "url": "https://www.youtube.com/watch?v=z4QxvaOVccs",
+        "length": "1:14 Min."
+      },
+      {
+        "kind": "image",
+        "src": "assets/auvis-projection.webp",
+        "title": "Eine App für einen konkreten Einsatzzweck",
+        "caption": "AuVis-Produktinszenierung: Zeichnen auf dem iPad und Lichtprojektion im Raum. Ein Beispiel für Software, die zu deinem Vorhaben passt."
+      },
+      {
+        "kind": "image",
+        "src": "assets/auvis-ipad.webp",
+        "title": "Die individuelle Oberfläche auf dem iPad",
+        "caption": "AuVis verbindet Zeichnen und Klang auf dem iPad — mit einer für diesen Zweck entwickelten Oberfläche."
+      },
+      {
+        "kind": "website",
+        "src": "assets/auvis-ipad.webp",
+        "title": "AuVis-Produktwebsite",
+        "caption": "Eigene App, eigene Website und ein professioneller Produktauftritt.",
+        "url": "https://auvis-website.vercel.app/",
+        "domain": "auvis-website.vercel.app",
+        "siteTitle": "AuVis — Zeichnen wird zum Erlebnis",
+        "previewSrc": "assets/site-previews/auvis/index.html"
+      }
+    ]
+  },
+  {
+    "id": "film",
+    "num": "03",
+    "category": "KI-FILM & VIDEO",
+    "title": "Deinen eigenen<br>KI-Film erstellen",
+    "lead": "Du möchtest einen Kurzfilm, Trailer oder ein Video für deine Marke? Wir machen aus deiner Idee eine zusammenhängende Produktion.",
+    "learn": "Story entwickeln, Figuren konsistent halten, Bilder und Videos generieren, Ton gestalten und schneiden — mit einem Workflow, den du selbst weiterführen kannst.",
+    "deliver": [
+      "Ein fertiger Clip, Trailer oder vereinbarter Filmabschnitt",
+      "Storyboard, ausgewählte Assets und Projektdateien",
+      "Vorschaubild und Text für deine Veröffentlichung",
+      "Ein nachvollziehbarer Produktionsablauf"
+    ],
+    "note": "IRIS zeigt meine eigene Umsetzung. Der erste Film ist vollständig auf YouTube zu sehen; die Bilder hier geben zusätzlich Einblick in die weiterentwickelte IRIS-Welt.",
+    "goal": "Meinen eigenen KI-Film erstellen",
+    "cta": "Meinen Film besprechen",
+    "example": "MEIN PRAXISBEISPIEL: IRIS",
+    "images": [
+      [
+        "iris-character-lana.webp",
+        "Lana: eine Figur aus mehreren Blickwinkeln",
+        "Original-Character-Sheet aus IRIS: Aussehen, Kleidung und Ansichten als Grundlage für konsistente Filmszenen."
+      ],
+      [
+        "iris-character-phil.webp",
+        "Phil: Charakterentwicklung für die Filmwelt",
+        "Original-Referenzbogen: Eine wiedererkennbare Figur entwickeln, bevor die einzelnen Szenen entstehen."
+      ],
+      [
+        "iris-storyboard.webp",
+        "Aus der Geschichte wird ein Storyboard",
+        "Originalseite aus dem IRIS-Storyboard: Handlung, Kamera, Dialog und Produktionsprompt für zwei Szenen."
+      ],
+      [
+        "iris-theater.webp",
+        "IRIS auf der großen Kinoleinwand",
+        "KI-generierte Kinoinszenierung mit einer grün markierten Originalszene aus IRIS. Angebotsvisualisierung, kein Foto einer realen Kinovorführung."
+      ]
+    ],
+    "links": [
+      [
+        "https://www.youtube.com/watch?v=nl3VW4Ibf-8",
+        "IRIS: vollständigen Film ansehen"
+      ]
+    ],
+    "video": [
+      "nl3VW4Ibf-8",
+      "IRIS – A Millionpainter Movie",
+      "12:39 Min."
+    ],
+    "media": [
+      {
+        "kind": "video",
+        "src": "assets/iris-cinema.webp",
+        "title": "IRIS – A Millionpainter Movie",
+        "caption": "IRIS – A Millionpainter Movie · 12:39 Min.",
+        "video": "nl3VW4Ibf-8",
+        "url": "https://www.youtube.com/watch?v=nl3VW4Ibf-8",
+        "length": "12:39 Min."
+      },
+      {
+        "kind": "image",
+        "src": "assets/iris-character-lana.webp",
+        "title": "Lana: eine Figur aus mehreren Blickwinkeln",
+        "caption": "Original-Character-Sheet aus IRIS: Aussehen, Kleidung und Ansichten als Grundlage für konsistente Filmszenen.",
+        "fit": "contain"
+      },
+      {
+        "kind": "image",
+        "src": "assets/iris-character-phil.webp",
+        "title": "Phil: Charakterentwicklung für die Filmwelt",
+        "caption": "Original-Referenzbogen: Eine wiedererkennbare Figur entwickeln, bevor die einzelnen Szenen entstehen.",
+        "fit": "contain"
+      },
+      {
+        "kind": "image",
+        "src": "assets/iris-storyboard.webp",
+        "title": "Aus der Geschichte wird ein Storyboard",
+        "caption": "Originalseite aus dem IRIS-Storyboard: Handlung, Kamera, Dialog und Produktionsprompt für zwei Szenen.",
+        "fit": "contain"
+      },
+      {
+        "kind": "image",
+        "src": "assets/iris-theater.webp",
+        "title": "IRIS auf der großen Kinoleinwand",
+        "caption": "KI-generierte Kinoinszenierung mit einer grün markierten Originalszene aus IRIS. Angebotsvisualisierung, kein Foto einer realen Kinovorführung."
+      }
+    ]
+  },
+  {
+    "id": "comic",
+    "num": "04",
+    "category": "COMIC, KINDERBUCH & PRODUKTAUFTRITT",
+    "title": "Deinen Comic oder<br>dein Buch erstellen",
+    "lead": "Deine Geschichte als fertiges Format — mit Bildern, Text, Cover und einem Auftritt, mit dem du sie anderen zeigen kannst.",
+    "learn": "Wir verbinden Story, Figuren, Bildstil und Seitenlayout. Dazu können Produktmockups, eine eigene Buchwebsite und die Übertragung deiner Geschichte in ein Video kommen.",
+    "deliver": [
+      "Zum Beispiel eine fertige Leseprobe mit Cover",
+      "Abgestimmte Export- und Projektdateien",
+      "Verkaufsvisuals und auf Wunsch eine eigene Produktwebsite",
+      "Ein Workflow für die weiteren Seiten und Formate"
+    ],
+    "note": "IRIS — Black Garden ist mein Beispiel für die ganze Strecke: Filmwelt, Comic, Produktvisuals und eigene Website. Dein Umfang wird vorab klar vereinbart.",
+    "goal": "Meinen Comic oder mein Buch erstellen",
+    "cta": "Meine Geschichte besprechen",
+    "example": "MEIN PRAXISBEISPIEL: IRIS — BLACK GARDEN",
+    "images": [
+      [
+        "iris-comic-produkt.webp",
+        "Dein Buch als präsentierbares Produkt",
+        "IRIS — Black Garden: Produktmockup mit Cover und Innenseiten."
+      ],
+      [
+        "comic-pos.webp",
+        "Produkt- und Verkaufspräsentation",
+        "IRIS — Black Garden: inszeniertes Point-of-Sale-Visual."
+      ],
+      [
+        "iris-page.webp",
+        "Fertige gestaltete Comicseiten",
+        "Eine Originalseite aus IRIS — Black Garden."
+      ]
+    ],
+    "links": [
+      [
+        "https://iris-black-garden.vercel.app/",
+        "Comic-Website & Leseprobe ansehen"
+      ]
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/iris-comic-produkt.webp",
+        "title": "Dein Buch als präsentierbares Produkt",
+        "caption": "IRIS — Black Garden: Produktmockup mit Cover und Innenseiten."
+      },
+      {
+        "kind": "image",
+        "src": "assets/comic-pos.webp",
+        "title": "Produkt- und Verkaufspräsentation",
+        "caption": "IRIS — Black Garden: inszeniertes Point-of-Sale-Visual."
+      },
+      {
+        "kind": "image",
+        "src": "assets/iris-page.webp",
+        "title": "Fertige gestaltete Comicseiten",
+        "caption": "Eine Originalseite aus IRIS — Black Garden."
+      },
+      {
+        "kind": "website",
+        "src": "assets/comic-website.webp",
+        "title": "Die Website zum Comic",
+        "caption": "IRIS — Black Garden: Comic, Leseprobe und eigene Produktwebsite.",
+        "url": "https://iris-black-garden.vercel.app/",
+        "domain": "iris-black-garden.vercel.app",
+        "siteTitle": "IRIS — BLACK GARDEN",
+        "previewSrc": "assets/site-previews/comic/index.html"
+      }
+    ]
+  },
+  {
+    "id": "smarthome",
+    "num": "05",
+    "category": "SMART HOME & HOME ASSISTANT",
+    "title": "Dein Smart Home<br>einrichten lassen",
+    "lead": "Licht, Heizung und Sensoren sollen zusammenarbeiten? Ich helfe dir, passende Geräte zu verbinden und sinnvolle Abläufe für dein Zuhause einzurichten.",
+    "deliver": [
+      "Einrichtung für die gemeinsam ausgewählten Geräte",
+      "Übersichtliches Dashboard, etwa in Home Assistant",
+      "Getestete Routinen für Licht, Heizung oder Anwesenheit",
+      "Dokumentation und Einweisung für deinen Alltag"
+    ],
+    "learn": "Du entscheidest, wie tief du einsteigen möchtest. Wir nutzen KI zum Planen, Erklären und Erstellen der Konfiguration — die Routinen funktionieren anschließend nach klaren Regeln.",
+    "note": "Mein technischer Hintergrund umfasst eigene Projekte mit Shelly, Mikrocontrollern und individuellen Bedienoberflächen. Geräteauswahl und Kompatibilität klären wir vor der Einrichtung.",
+    "goal": "Mein Smart Home einrichten",
+    "cta": "Mein Smart Home besprechen",
+    "example": "TECHNIK FÜR DEINEN ALLTAG",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/smart-home.webp",
+        "title": "Dein Zuhause in einer übersichtlichen Steuerung",
+        "caption": "Angebotsvisualisierung: Geräte verbinden, Dashboard einrichten und wiederkehrende Abläufe automatisieren."
+      }
+    ],
+    "images": [
+      [
+        "smart-home.webp",
+        "Dein Zuhause in einer übersichtlichen Steuerung",
+        "Angebotsvisualisierung: Geräte verbinden, Dashboard einrichten und wiederkehrende Abläufe automatisieren."
+      ]
+    ],
+    "enabled": false
+  },
+  {
+    "id": "maker",
+    "num": "05",
+    "category": "MAKER & INDIVIDUELLE TECHNIK",
+    "title": "Dein eigenes<br>Technikprojekt bauen",
+    "lead": "Eine eigene Lichtsteuerung, ein smarter Sensor oder ein kleines Gerät für deine Idee: Wir machen aus dem Vorhaben einen greifbaren Prototyp.",
+    "deliver": [
+      "Bauteilauswahl und übersichtlicher Aufbauplan",
+      "Ein vereinbarter Prototyp, z. B. mit ESP32 oder Raspberry Pi",
+      "Passender Programmcode und gemeinsam getestete Funktionen",
+      "Projektdateien und verständliche Anleitung"
+    ],
+    "learn": "KI hilft uns beim Verstehen, Programmieren und bei der Fehlersuche. Du baust mit oder übergibst mir die vereinbarten Schritte — passend zu deinem Erfahrungsstand.",
+    "note": "Eigene Praxisprojekte: LED-Objekte und individuelle PC- und Gehäusekonzepte. Wir stimmen Bauteile, Versorgung und den erreichbaren Umfang vorab ab.",
+    "goal": "Mein eigenes Technikprojekt bauen",
+    "cta": "Meine Technikidee besprechen",
+    "example": "VON DER IDEE ZUM PROTOTYP",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/maker-lab.webp",
+        "title": "Aus Bauteilen wird dein eigenes Gerät",
+        "caption": "Angebotsvisualisierung: Maker-Arbeitsplatz mit Mikrocontroller, Touchscreen, LED-Prototyp und Präzisionswerkzeug."
+      }
+    ],
+    "images": [
+      [
+        "maker-lab.webp",
+        "Aus Bauteilen wird dein eigenes Gerät",
+        "Angebotsvisualisierung: Maker-Arbeitsplatz mit Mikrocontroller, Touchscreen, LED-Prototyp und Präzisionswerkzeug."
+      ]
+    ]
+  },
+  {
+    "id": "alltagsassistent",
+    "num": "06",
+    "category": "PERSÖNLICHE KI-ASSISTENTEN",
+    "title": "Deinen persönlichen<br>KI-Arbeitsplatz einrichten",
+    "lead": "ChatGPT Desktop, eigene Projekte und passende Agenten-Workflows: Wir richten deinen KI-Arbeitsplatz so ein, dass du Vorhaben übersichtlich organisieren und wiederkehrende Aufgaben abgeben kannst.",
+    "deliver": [
+      "Dein KI-Arbeitsplatz mit klar strukturierten Projekten",
+      "Persönliche Vorgaben, Vorlagen und passende Agenten-Abläufe",
+      "Ausgewählte Verbindungen zu deinen Werkzeugen",
+      "Ein gemeinsam getesteter Ablauf und verständliche Übergabe"
+    ],
+    "learn": "Du lernst, Projekte und Aufgaben sinnvoll zu strukturieren. Die technische Einrichtung und die vereinbarten Umsetzungsschritte übernehme ich auf Wunsch für dich.",
+    "note": "Wir wählen gemeinsam passende Werkzeuge und einen konkreten Ablauf. Welche Agenten-Funktionen und Verbindungen verfügbar sind, hängt von den eingesetzten Tools und deinem Tarif ab.",
+    "goal": "Meinen persönlichen KI-Arbeitsplatz einrichten",
+    "cta": "Meinen KI-Arbeitsplatz besprechen",
+    "example": "DEINE ABLÄUFE, DEIN ASSISTENT",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/chatgpt-workspace.webp",
+        "title": "ChatGPT Desktop, Projekte und Agenten-Aufgaben",
+        "caption": "KI-generierte Konzeptansicht eines KI-Arbeitsplatzes mit ChatGPT Desktop, Projekten und Agenten-Aufgaben. Illustrative Oberfläche, kein originaler App-Screenshot."
+      }
+    ],
+    "images": [
+      [
+        "chatgpt-workspace.webp",
+        "ChatGPT Desktop, Projekte und Agenten-Aufgaben",
+        "KI-generierte Konzeptansicht eines KI-Arbeitsplatzes mit ChatGPT Desktop, Projekten und Agenten-Aufgaben. Illustrative Oberfläche, kein originaler App-Screenshot."
+      ]
+    ]
+  }
+]

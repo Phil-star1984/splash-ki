@@ -1,0 +1,11 @@
+SPLASH — Persönliche KI-Umsetzung und Training
+
+Öffne dist/index.html in Chrome.
+Aktuelle Fassung: Breiter Bildheader, vier konkrete Angebote, Bewerbungspaket mit Assistent zusammengefasst, Desktop zweispaltig und mobil gestapelt. Galerien mit Bildwechsel und Vergrößerung. Konkrete Videos und Produktseiten verlinkt.
+
+KONZEPT.md enthält Positionierung und Umfang. services.json dokumentiert die Angebotstexte und Bilder. BILDQUELLEN.json enthält Quellenangaben.
+
+Formular: Öffnet das eigene Mailprogramm, kein automatischer Versand.
+Öffentliche Adresse: https://splash-ki.vercel.app/
+
+Aktuelle Medienfassung: neues Office-Porträt, abwechslungsreiches Bewerbungspaketmotiv, rahmenfüllende formatabhängige Bilder. IRIS-Zusatzmotive aus grün markierten Dateien. Videos und Websites direkt in den Vorschaureihen. In der lokalen Datei öffnet der Play-Klick YouTube; im Hosting lädt der Player im Bildrahmen.
